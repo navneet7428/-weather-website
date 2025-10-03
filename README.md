@@ -17,7 +17,7 @@ The frontend of the application was built using HTML, CSS, and JavaScript (with 
 This project highlights key concepts of full-stack development, including API consumption, client-server communication, and responsive design. By working on this app, I strengthened my skills in React.js, Node.js, Express.js, MongoDB, and API integration, while gaining practical experience in designing and deploying interactive, data-driven applications. The Weather App demonstrates not only technical proficiency but also the ability to build real-world solutions that combine usability with functionality.
 
 Output-
-
+![Image](https://github.com/user-attachments/assets/3471c4e7-d503-460e-afd4-e14c3113ee0c)
 
 
 
